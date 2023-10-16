@@ -12,3 +12,4 @@ This is feature 1.0 initial commit
 This is feature 1.1 initial commit
 - outside user makes 1 commit
 - outside user makes 2 commits
+- oautside user makes 3 commits
