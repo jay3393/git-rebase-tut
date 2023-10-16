@@ -13,3 +13,6 @@ This is feature 1.1 initial commit
 - outside user makes 1 commit
 - outside user makes 2 commits
 - oautside user makes 3 commits
+- locally i am making changes while my teammates already committed 3 times
+- let's try rebasing to make sure that we get the changes and apply our local changes on top of that
+- but before rebasing, we want to commit our local changes without fetching/pulling
