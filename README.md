@@ -8,3 +8,6 @@ This is feature 1.0 initial commit
 - at the same time, locally i made some changes...
 - i commit locally without pulling first!!!
 - outside user made a third change!!!
+
+This is feature 1.1 initial commit
+- outside user makes 1 commit
